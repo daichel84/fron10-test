@@ -44,3 +44,18 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+Librery used: 
+    "@types/jest": "^27.0.1",
+    "@types/node": "^16.7.13",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@types/react-select": "^5.0.1",
+    "bootstrap-icons": "^1.9.1",
+    "bootswatch": "^5.2.2",
+    "react-bootstrap-date-picker": "^5.1.0",
+    "react-router-dom": "^6.4.2",
+    "react-select": "^5.5.4",
+    "typescript": "^4.4.2",
+
+    The rest of librery used, are wich one by default react install.
